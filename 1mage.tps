@@ -172,9 +172,7 @@
         </struct>
         <key>fileList</key>
         <array>
-            <filename>1、载入动画/CloseNormal.png</filename>
-            <filename>1、载入动画/CloseSelected.png</filename>
-            <filename>1、载入动画/HelloWorld.png</filename>
+            <filename>1、载入动画</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
